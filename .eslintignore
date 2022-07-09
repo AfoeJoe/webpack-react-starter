@@ -1,0 +1,12 @@
+vite.config.ts
+.yarn
+dist
+node_modules
+commitlint.config.js
+jest.config.ts
+coverage
+__mocks__/
+
+index.d.ts
+
+stats.json
